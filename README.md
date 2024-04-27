@@ -1,20 +1,15 @@
-BigBlueButton
-=============
-BigBlueButton is an open-source virtual classroom designed to help teachers teach and learners learn.  
-
-BigBlueButton supports real-time sharing of audio, video, slides (with whiteboard annotations), chat, and the screen.  Instructors can engage remote students with polling, emojis, multi-user whiteboards, shared notes, and breakout rooms.  During the session, BigBlueButton generates analytics that are visible to moderators in the Learning Analytics Dashboard.
-
-Presenters can record and playback content for later sharing with others.
-
-We designed BigBlueButton for online learning, it can be used for many other applications as well.  The educational use cases for BigBlueButton are
-
-  * Online tutoring (one-to-one)
-  * Flipped classrooms (recording content ahead of your session)
-  * Group collaboration (many-to-many)
-  * Online classes (one-to-many)
-
-The latest version is BigBlueButton 2.7.  You can install BigBlueButton 2.7 on Ubuntu 20.04 using [bbb-install.sh](https://github.com/bigbluebutton/bbb-install) within 30 minutes (or your money back 😉).
-
-For full technical documentation of BigBlueButton -- including architecture, features, API, and GreenLight (the default front-end) -- see [https://docs.bigbluebutton.org/](https://docs.bigbluebutton.org/).
-
-BigBlueButton and the BigBlueButton Logo are trademarks of [BigBlueButton Inc](https://bigbluebutton.org).
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大蓝色按钮</font></font></h1><a id="user-content-bigbluebutton" class="anchor" aria-label="永久链接：BigBlueButton" href="#bigbluebutton"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BigBlueButton 是一个开源虚拟教室，旨在帮助教师教学和学习者学习。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BigBlueButton 支持音频、视频、幻灯片（带白板注释）、聊天和屏幕的实时共享。教师可以通过投票、表情符号、多用户白板、共享笔记和分组讨论室来吸引远程学生。在会议期间，BigBlueButton 会生成分析结果，主持人可以在学习分析仪表板中看到这些分析结果。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示者可以录制和播放内容以便稍后与其他人共享。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们为在线学习设计了 BigBlueButton，它也可用于许多其他应用程序。 BigBlueButton 的教育用例是</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在线辅导（一对一）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻转课堂（在课程之前录制内容）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">小组协作（多对多）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在线课程（一对多）</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新版本是BigBlueButton 2.7。您可以在 30 分钟内使用</font></font><a href="https://github.com/bigbluebutton/bbb-install"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bbb-install.sh</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Ubuntu 20.04 上安装 BigBlueButton 2.7 </font><font style="vertical-align: inherit;">（否则退款😉）。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关 BigBlueButton 的完整技术文档（包括架构、功能、API 和 GreenLight（默认前端）），请参阅</font></font><a href="https://docs.bigbluebutton.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://docs.bigbluebutton.org/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BigBlueButton 和 BigBlueButton 徽标是</font></font><a href="https://bigbluebutton.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BigBlueButton Inc</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的商标。</font></font></p>
+</article></div>
